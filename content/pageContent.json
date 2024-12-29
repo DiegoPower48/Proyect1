@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "title": "KeenSight Analytics",
+    "description": "Empowering Businesses Through Advanced Data and AI Solutions"
+  },
+  "hero": {
+    "headline": "Revolutionize Your Business with Cutting-Edge AI Solutions",
+    "subheadline": "Streamline workflows, reduce costs, and scale effortlessly.",
+    "ctaText": "Get Started Today",
+    "imagePath": "/images/hero-graphic.png"
+  },
+  "problemStatement": {
+    "title": "The Problem We Solve",
+    "description": "Struggling to manage data efficiently? Keensight Analytics simplifies the process.",
+    "points": [
+      "Data silos slowing down your decision-making?",
+      "High costs of manual operations?",
+      "Inconsistent insights across departments?"
+    ]
+  },
+  "serviceOverview": {
+    "title": "Our AI & ML Frameworks",
+    "services": [
+      {
+        "name": "TensorFlow",
+        "description": "Praesentium delectus porro ea! Explicabo magni quis aspernatur?"
+      },
+      {
+        "name": "PyTorch",
+        "description": "Praesentium delectus porro ea! Explicabo magni quis aspernatur?"
+      },
+      {
+        "name": "Scikit-learn",
+        "description": "Praesentium delectus porro ea! Explicabo magni quis aspernatur?"
+      }
+    ]
+  },
+  "features": [
+    {
+      "icon": "analytics",
+      "title": "Real-time data analytics",
+      "description": "Get instant insights with our powerful analytics engine."
+    },
+    {
+      "icon": "integration",
+      "title": "Seamless integration",
+      "description": "Easily connect with your existing systems and workflows."
+    },
+    {
+      "icon": "support",
+      "title": "24/7 AI-powered support",
+      "description": "Round-the-clock assistance with our advanced AI technology."
+    }
+  ],
+  "whyChooseUs": {
+    "title": "Why Choose Us?",
+    "items": [
+      {
+        "title": "Tailored Solutions",
+        "description": "Every service is designed to meet your unique business needs and objectives."
+      },
+      {
+        "title": "Proven Expertise",
+        "description": "Our team brings decades of experience and a proven track record of success."
+      },
+      {
+        "title": "Exceptional Quality",
+        "description": "We prioritize delivering top-notch quality and innovative solutions for every client."
+      },
+      {
+        "title": "Innovative Tools",
+        "description": "Stay ahead with cutting-edge tools and technologies that empower your growth."
+      },
+      {
+        "title": "Transparent Process",
+        "description": "Experience complete transparency in every step of our collaboration."
+      },
+      {
+        "title": "Global Reach",
+        "description": "We work with clients across industries and geographies, ensuring solutions for every market."
+      }
+    ]
+  },
+  "useCases": {
+    "title": "Use Cases",
+    "cases": [
+      "Predictive Maintenance",
+      "Customer Churn Analysis",
+      "Sales Forecasting",
+      "Supply Chain Optimization"
+    ]
+  },
+  "process": {
+    "title": "Our Service Delivery Process",
+    "subtitle": "lorem saepe magnam ea non aut corporis in perferendis doloribus vitae possimus?",
+    "steps": [
+      {
+        "title": "Discovery",
+        "description": "We begin by understanding your unique needs and challenges through in-depth consultations."
+      },
+      {
+        "title": "Analysis",
+        "description": "Our team analyzes your current systems and processes to identify areas for improvement."
+      },
+      {
+        "title": "Implementation",
+        "description": "We seamlessly implement the solution and provide comprehensive training for your team."
+      },
+      {
+        "title": "Support",
+        "description": "We offer ongoing support to ensure smooth operation and maximum value from your new solution."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "feedbacks": [
+      {
+        "name": "Alex Johnson, Tech Lead",
+        "quote": "This service completely transformed our workflow. The tools provided are efficient and user-friendly!"
+      },
+      {
+        "name": "Sarah Brown, Product Manager",
+        "quote": "Highly recommend! Their AI tools helped us scale our solutions effortlessly."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing Plans",
+    "plans": [
+      {
+        "name": "Basic",
+        "price": "299",
+        "features": ["Feature A", "Feature B"]
+      },
+      {
+        "name": "Pro",
+        "price": "599",
+        "features": ["Feature A", "Feature B", "Feature C"]
+      },
+      {
+        "name": "Enterprise",
+        "price": "999",
+        "features": ["Feature A", "Feature B", "Feature C", "Feature D"]
+      }
+    ]
+  },
+  "resources": {
+    "title": "Resources & Insights",
+    "links": [
+      {
+        "label": "Whitepaper: AI in 2024",
+        "url": "#"
+      },
+      {
+        "label": "Case Study: Retail Industry",
+        "url": "#"
+      },
+      {
+        "label": "E-book: Data Science 101",
+        "url": "#"
+      }
+    ]
+  },
+  "finalCTA": {
+    "title": "Take the Next Leap in Your Business Evolution",
+    "subtitle": "Experience unparalleled technical excellence and financial growth by partnering with Keensight Analytics.",
+    "ctaText": "Schedule a Free Consultation"
+  }
+}
